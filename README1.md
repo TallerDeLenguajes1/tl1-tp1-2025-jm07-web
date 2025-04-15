@@ -15,3 +15,13 @@ Se debe realizar antes de hacer algún cambio en el trabajo.
 ## ¿Cómo configuraría el archivo .gitignore?
 
 Primero crearía un archivo .gitignore en el directorio de origen de mi repositorio de git y luego le escribiría los archivos que quiero que sean ignorados. Por ejemplo: ignorado.txt
+
+# 3.c
+
+## ¿Qué archivos vé?
+
+Veo al archivo tp1_1.c, al archivo tp1_1.exe y a la carpeta .vscode
+
+## ¿Cuál cree que no hace falta que esté?
+
+Considero que no hace falta que esté el tp1_1.exe porque solo es un archivo compilado, y tampoco debería estar .vscode porque son configuraciones del editor local.
