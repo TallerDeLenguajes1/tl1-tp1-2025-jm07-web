@@ -3,9 +3,10 @@
 ## ¿Por qué es conveniente incluirlo?
 
 Es conveniente usarlo porque el archivo .gitignore es un archivo de texto que le indica a Git qué archivos o directorios ignorar. Esto es útil para evitar que archivos como archivos temporales, código compilado o datos confidenciales se incluyan en el repositorio. Más puntualmente sirve para:
--Evitar que archivos no rastreados por Git permanezcan sin rastrear. 
--Omitir archivos que no se necesitan en un repositorio remoto. 
--Evitar que archivos específicos de un equipo o entorno de desarrollo se incluyan en el repositorio.
+
+- Evitar que archivos no rastreados por Git permanezcan sin rastrear. 
+- Omitir archivos que no se necesitan en un repositorio remoto. 
+- Evitar que archivos específicos de un equipo o entorno de desarrollo se incluyan en el repositorio.
 
 ## ¿Cuándo se debe hacer?
 
